@@ -1,0 +1,20 @@
+.header {
+    background: url(../img/bg-header.jpg) no-repeat center / cover;
+    padding: 155px 0 130px;
+   
+    &__title {
+        font-size: 100px;
+        font-family: 'Liana' serif;
+        text-align: center;
+        color: #fff;
+    }
+    &__subtitle {
+        font-size: 18px;
+        font-weight: 200;
+        color: #fff;
+        text-align: center;
+       
+
+    }
+    
+}

@@ -1,0 +1,25 @@
+.nav {
+    margin-top: 15px;
+    &__title {
+        font-size: 54px;
+        font-weight: 400;
+        font-family: 'Type',  serif;
+    }
+    &__logo {
+        text-align: center;
+    }
+   
+    
+    &__info span {
+        font-weight: bold;
+        font-size: 19px;
+    }
+    &__info p {
+        font-size: 11px;
+        padding: 0;
+    }
+    &__img {
+        width: 50%;
+    }
+    
+}
